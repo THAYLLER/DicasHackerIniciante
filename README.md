@@ -41,9 +41,9 @@ Mods, se quiserem fixar isso aqui no grupo seria legal na minha opinião. Todos 
 
 # Material extra:
 
-http://ian.seyler.me/easy_x86-64/
-https://forum.fsocietybrasil.org
-http://www.bbc.com/portuguese/internacional-39149203
-https://solitudelab.wordpress.com/2017/12/30/entendendo-os-processos-no-linux/
-https://securityonline.info/backtome-creating-fud-payloads/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost
-https://www.facebook.com/notes/fsociety-brasil/android-hacking-explorando-redes-wifi-com-zanti/1672908303016265/
+- http://ian.seyler.me/easy_x86-64/
+- https://forum.fsocietybrasil.org
+- http://www.bbc.com/portuguese/internacional-39149203
+- https://solitudelab.wordpress.com/2017/12/30/entendendo-os-processos-no-linux/
+- https://securityonline.info/backtome-creating-fud-payloads/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost
+- https://www.facebook.com/notes/fsociety-brasil/android-hacking-explorando-redes-wifi-com-zanti/1672908303016265/
